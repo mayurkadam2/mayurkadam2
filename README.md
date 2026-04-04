@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mayur Kadam</h1>
-<h3 align="center">A Java Full-Stack Developer</h3>
+<h3 align="center">A MERN Developer | Computer Network Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurkadam2&label=Profile%20views&color=0e75b6&style=flat" alt="mayurkadam2" /> </p>
 
-- 🔭 I’m currently working on **SnakeGame**
 
-- 🌱 I’m currently learning **JS and Advanced Java**
-
-- 💬 Ask me about **Java, Gen AI**
-
+- 🌱 I’m currently learning **React and TailwindCSS**
+- 💬 Ask me about **Java, CSS, GenAI**
 - 📫 How to reach me **mayurkadam0062@gmail.com**
-
 - ⚡ Fun fact **I think I am a computer geek**
 
 <h3 align="left">Connect with me:</h3>
